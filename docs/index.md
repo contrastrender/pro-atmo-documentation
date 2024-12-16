@@ -1,15 +1,16 @@
 # Getting Started
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Since Blender 4.2.0, all our addons are extensions, which is a wrapper for addons and themes. You can install them analog to normal addons.
 
-## Commands
+In the following chapters we will go through the installation and proper setup, So you can use the addon properly
 
-- `mkdocs new [dir-name]` - Create a new project.
-- `mkdocs serve` - Start the live-reloading docs server.
-- `mkdocs build` - Build the documentation site.
-- `mkdocs -h` - Print help message and exit.
+## Installation
 
-## Project layout
+after you purchased the product, you need to download the "... \_extension.zip" file, in order to install the extension, you need to use blender version 4.2.0+.
+
+With Blender open. you can install the extension under edit -> preferences -> get extenstions -> install from dist (dropdown menu on the top right corner) -> select the downloaded \_extension.zip file
+
+## Append asset-library
 
     mkdocs.yml    # The configuration file.
     docs/
