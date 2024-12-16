@@ -1,0 +1,7 @@
+site_name: Pro Atmo
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep-orange
+    accent: orange
